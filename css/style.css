@@ -1,0 +1,73 @@
+body {
+					height: 			100%;
+					background-image:	url(../images/bg.png);
+					color: 				#ffffff;
+					font-family:		Century Gothic, sans-serif;
+					font-size:			14px;
+
+}
+
+#container {
+					height: 			auto !important;
+					overflow:			hidden;
+}
+
+#content {
+					padding-bottom: 	76px;
+					margin-top:			140px;
+					margin-left:		auto;
+					margin-right:		auto;
+					width:				729px;
+					height:				600px;
+}
+
+#footer {
+					position: 			absolute;
+					background-repeat:	repeat-x;
+					margin-top: 		-76px;
+					margin-left:		-8px;
+					height: 			76px;
+					clear:				both;
+					width:				100%;
+					background-image:	url(../images/footer.png);
+} 
+
+/*Opera Fix*/
+body:before {
+					content:			"";
+					height:				100%;
+					float:				left;
+					width:				0;
+					margin-top:			-32767px;/
+}
+
+#header {
+				background-repeat:		repeat-x;
+				background-image:		url(../images/header.png);
+				position:				absolute;
+				height:					143px;
+				width:					100%;
+				margin-left:			-8px;
+				top:					0px;
+}
+
+#fb {
+				background-image:		url(../images/sml_fb.png);
+				width:					67px;
+				height:					112px;
+				
+
+}
+
+#fb:hover {
+				background-image:		url(../images/big_fb.png);
+}
+
+.tw:hover {
+				background-image:		url(../images/big_tw.png);
+}
+
+@font-face {
+				font-family:			Vladimir;
+				src:					url(../VLADIMIR.ttf);
+}
