@@ -1,0 +1,136 @@
+ body {
+		background-color:	#efeded;
+		background-image:	url(./images/bg2.png);
+		background-repeat:	repeat-x;
+ }
+ 
+ #container {
+		background-image:	url(./images/);
+		background-repeat:	repeat-y;
+		margin-left:		auto;
+		margin-right:		auto;
+		margin-top:			131px;
+		width:				773px;
+		height:				auto;
+ }
+ 
+ #logo {
+		background-image:	url(./images/logo2.png);
+		background-repeat:	no-repeat;
+		height:				107px;
+		width:				278px;
+		margin-top:			-107px;
+		margin-left:		559px;
+		position:			absolute;
+ }
+ 
+ #nav {
+ 		height:				80px;
+		width:				150px;
+		margin-top:			-80px;
+		margin-left:		-120px;
+		position:			absolute;
+ }
+ 
+ #home {
+		height:				80px;
+		width:				150px;
+		background-image:	url(./images/home.png);
+		display:			block;
+ }
+ 
+ #home:hover {
+		background-image:	url(./images/home2.png);
+		display:			block;
+ }
+ 
+ #images {
+		height:				80px;
+		width:				150px;
+		margin-top:			-80px;
+		margin-left:		140px;
+		background-image:	url(./images/images.png);
+		display:			block;
+ }
+ 
+ #images:hover {
+		background-image:	url(./images/images2.png);
+		display:			block;
+ }
+ 
+ #animation {
+		height:				80px;
+		width:				150px;
+		margin-top:			-80px;
+		margin-left:		280px;
+		background-image:	url(./images/animation.png);
+		display:			block;
+ }
+ 
+ #animation:hover {
+		background-image:	url(./images/animation2.png);
+		display:			block;
+ }
+
+ #audiovid {
+		height:				80px;
+		width:				150px;
+		margin-top:			-80px;
+		margin-left:		420px;
+		background-image:	url(./images/audiovid.png);
+		display:			block;
+ }
+ 
+ #audiovid:hover {
+		background-image:	url(./images/audiovid2.png);
+		display:			block;
+ }
+ 
+ #text {
+		height:				80px;
+		width:				150px;
+		margin-top:			-80px;
+		margin-left:		560px;
+		background-image:	url(./images/text.png);
+		display:			block;
+ }
+ 
+ #text:hover {
+		background-image:	url(./images/text2.png);
+		display:			block;
+ }
+ 
+ #cont-a {
+		height:				13px;
+		width:				766px;
+		margin-top:			30px;
+		background-image:	url(./images/conta.png);
+ }
+ 
+ #cont-b {
+		height:				auto;
+		width:				766px;
+		color:				gray;
+		background-image:	url(./images/contb.png);
+ }
+ 
+ #cont-c {
+		height:				21px;
+		width:				766px;
+		background-image:	url(./images/contc.png);
+ }
+ 
+ #cont-d {
+		width:				766px;
+		height:				auto;
+		color:				white;
+		font-family:		Verdana;
+		font-size:			12px;
+		text-align:			center;
+ }
+
+#anim {
+		width:				400px;
+		height:				auto;
+		margin-left:			-40px;
+}
