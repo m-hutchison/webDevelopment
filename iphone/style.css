@@ -1,0 +1,33 @@
+body {
+			background-color:			#EBEBEB;
+}
+
+#header {
+			font-family:				Museo;
+			font-size:					34px;
+			color:						#D1D1D1;
+			text-shadow:				1px 1px 1px #B5B5B5;
+			margin-left:				10%;
+}
+
+#container {
+			position:					relative;
+			margin:						0 auto;
+			width:						320px;
+			top:						-20px;
+			overflow:					hidden;
+			color:						#6E6E6E;
+			font-family:				Museo;
+			font-size:					14px;
+}
+
+a {
+			text-decoration:			none;
+			color:						#CCCCCC;
+			text-shadow:				1px 1px 1px #B5B5B5;
+}
+
+@font-face {
+			font-family:				Museo;
+			src:						url('../fonts/museo.ttf');
+}
